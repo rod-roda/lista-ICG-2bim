@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AtividadeWagner2BIM/1.0.0": {
+        "runtime": {
+          "AtividadeWagner2BIM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AtividadeWagner2BIM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

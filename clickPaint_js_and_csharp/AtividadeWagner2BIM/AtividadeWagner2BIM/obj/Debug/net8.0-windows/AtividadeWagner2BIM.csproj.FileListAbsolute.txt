@@ -1,0 +1,16 @@
+C:\Users\pichau\Documents\TÉCNICO INFO 2025\ICG\2BIM\AtividadeWagner2BIM\AtividadeWagner2BIM\bin\Debug\net8.0-windows\AtividadeWagner2BIM.exe
+C:\Users\pichau\Documents\TÉCNICO INFO 2025\ICG\2BIM\AtividadeWagner2BIM\AtividadeWagner2BIM\bin\Debug\net8.0-windows\AtividadeWagner2BIM.deps.json
+C:\Users\pichau\Documents\TÉCNICO INFO 2025\ICG\2BIM\AtividadeWagner2BIM\AtividadeWagner2BIM\bin\Debug\net8.0-windows\AtividadeWagner2BIM.runtimeconfig.json
+C:\Users\pichau\Documents\TÉCNICO INFO 2025\ICG\2BIM\AtividadeWagner2BIM\AtividadeWagner2BIM\bin\Debug\net8.0-windows\AtividadeWagner2BIM.dll
+C:\Users\pichau\Documents\TÉCNICO INFO 2025\ICG\2BIM\AtividadeWagner2BIM\AtividadeWagner2BIM\bin\Debug\net8.0-windows\AtividadeWagner2BIM.pdb
+C:\Users\pichau\Documents\TÉCNICO INFO 2025\ICG\2BIM\AtividadeWagner2BIM\AtividadeWagner2BIM\obj\Debug\net8.0-windows\AtividadeWagner2BIM.Form1.resources
+C:\Users\pichau\Documents\TÉCNICO INFO 2025\ICG\2BIM\AtividadeWagner2BIM\AtividadeWagner2BIM\obj\Debug\net8.0-windows\AtividadeWagner2BIM.csproj.GenerateResource.cache
+C:\Users\pichau\Documents\TÉCNICO INFO 2025\ICG\2BIM\AtividadeWagner2BIM\AtividadeWagner2BIM\obj\Debug\net8.0-windows\AtividadeWagner2BIM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pichau\Documents\TÉCNICO INFO 2025\ICG\2BIM\AtividadeWagner2BIM\AtividadeWagner2BIM\obj\Debug\net8.0-windows\AtividadeWagner2BIM.AssemblyInfoInputs.cache
+C:\Users\pichau\Documents\TÉCNICO INFO 2025\ICG\2BIM\AtividadeWagner2BIM\AtividadeWagner2BIM\obj\Debug\net8.0-windows\AtividadeWagner2BIM.AssemblyInfo.cs
+C:\Users\pichau\Documents\TÉCNICO INFO 2025\ICG\2BIM\AtividadeWagner2BIM\AtividadeWagner2BIM\obj\Debug\net8.0-windows\AtividadeWagner2BIM.csproj.CoreCompileInputs.cache
+C:\Users\pichau\Documents\TÉCNICO INFO 2025\ICG\2BIM\AtividadeWagner2BIM\AtividadeWagner2BIM\obj\Debug\net8.0-windows\AtividadeWagner2BIM.dll
+C:\Users\pichau\Documents\TÉCNICO INFO 2025\ICG\2BIM\AtividadeWagner2BIM\AtividadeWagner2BIM\obj\Debug\net8.0-windows\refint\AtividadeWagner2BIM.dll
+C:\Users\pichau\Documents\TÉCNICO INFO 2025\ICG\2BIM\AtividadeWagner2BIM\AtividadeWagner2BIM\obj\Debug\net8.0-windows\AtividadeWagner2BIM.pdb
+C:\Users\pichau\Documents\TÉCNICO INFO 2025\ICG\2BIM\AtividadeWagner2BIM\AtividadeWagner2BIM\obj\Debug\net8.0-windows\AtividadeWagner2BIM.genruntimeconfig.cache
+C:\Users\pichau\Documents\TÉCNICO INFO 2025\ICG\2BIM\AtividadeWagner2BIM\AtividadeWagner2BIM\obj\Debug\net8.0-windows\ref\AtividadeWagner2BIM.dll

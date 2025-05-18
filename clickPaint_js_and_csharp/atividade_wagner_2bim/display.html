@@ -1,0 +1,115 @@
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desenho de Linhas</title>
+    <style>
+        #header {
+            padding: 10px;
+            background-color: #f0f0f0;
+            border-bottom: 1px solid #ccc;
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            font-family: sans-serif;
+            flex-wrap: wrap;
+        }
+
+        label {
+            font-weight: bold;
+        }
+
+        .numeric-updown {
+            display: flex;
+            align-items: center;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            overflow: hidden;
+            width: fit-content;
+        }
+
+        .numeric-updown input {
+            width: 60px;
+            text-align: center;
+            border: none;
+            outline: none;
+            font-size: 16px;
+        }
+
+        .numeric-updown button {
+            padding: 5px 10px;
+            font-size: 16px;
+            border: none;
+            background-color: #e0e0e0;
+            cursor: pointer;
+        }
+
+        .numeric-updown button:hover {
+            background-color: #d0d0d0;
+        }
+
+        .output-label {
+            min-width: 220px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="header">
+        <div>
+            <label for="opcoes">Estilo da Linha:</label>
+            <select id="opcoes">
+                <option value="Nenhuma">Nenhuma</option>
+                <option value="Linha Sólida">Linha Sólida</option>
+                <option value="Linha Tracejada">Linha Tracejada</option>
+                <option value="Linha Traço Ponto">Linha Traço Ponto</option>
+                <option value="Linha Traço Dois Pontos">Linha Traço Dois Pontos</option>
+                <option value="Linha Pontilhada">Linha Pontilhada</option>
+            </select>
+        </div>
+
+        <div>
+            <label for="espessura">Espessura:</label>
+            <div class="numeric-updown">
+                <input type="number" id="espessura" value="1" min="1" max="5">
+            </div>
+        </div>
+
+        <div class="input-group">
+            <label for="largura">Largura:</label>
+            <input type="number" id="largura" min="100" max="5000">
+        </div>
+
+        <div class="input-group">
+            <label for="altura">Altura:</label>
+            <input type="number" id="altura" min="100" max="3000">
+        </div>
+
+         <div class="output-label">
+            <label id="labelFuncao">Função da Reta: </label>
+        </div>
+        <div class="output-label">
+            <label id="labelComprimento">Comprimento da Reta: </label>
+        </div>
+
+    </div>
+
+    <canvas id="canvas" width="1920" height="1080" style="border:1px solid black;"></canvas>
+    <script src="paint.js"></script>
+
+    <script>
+        function alterarEspessura(delta) {
+            const input = document.getElementById('espessura');
+            let valor = parseInt(input.value, 10);
+            valor += delta;
+
+            if (valor < parseInt(input.min)) valor = parseInt(input.min);
+            if (valor > parseInt(input.max)) valor = parseInt(input.max);
+
+            input.value = valor;
+        }
+    </script>
+</body>
+
+</html>
